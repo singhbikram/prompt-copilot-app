@@ -1,0 +1,27 @@
+name,description,price,category,image,stock
+Apple iPhone 14,Latest Apple smartphone with A15 chip,799.99,Electronics,https://images.unsplash.com/photo-1511707171634-5f897ff02aa9,50
+Samsung 4K TV,Ultra HD Smart LED TV,499.99,Electronics,https://images.unsplash.com/photo-1517336714731-489689fd1ca8,30
+Nike Running Shoes,Lightweight shoes for running,89.99,Fashion,https://images.unsplash.com/photo-1519864600265-abb23847ef2c,100
+Levi's Jeans,Classic straight fit denim jeans,59.99,Fashion,https://images.unsplash.com/photo-1512436991641-6745cdb1723f,80
+Sony WH-1000XM4,Noise cancelling wireless headphones,349.99,Electronics,https://images.unsplash.com/photo-1517841905240-472988babdf9,40
+Instant Pot Duo,7-in-1 electric pressure cooker,99.99,Home,https://images.unsplash.com/photo-1504674900247-0877df9cc836,60
+Kindle Paperwhite,Waterproof e-reader with backlight,129.99,Books,https://images.unsplash.com/photo-1512820790803-83ca734da794,70
+Lego Star Wars Set,Millennium Falcon building kit,159.99,Toys,https://images.unsplash.com/photo-1465101046530-73398c7f28ca,25
+Maybelline Mascara,Volumizing waterproof mascara,8.99,Beauty,https://images.unsplash.com/photo-1515378791036-0648a3ef77b2,200
+Colgate Toothpaste,Whitening toothpaste 6-pack,14.99,Grocery,https://images.unsplash.com/photo-1502741338009-cac2772e18bc,150
+Adidas Soccer Ball,Official match ball,29.99,Sports,https://images.unsplash.com/photo-1517649763962-0c623066013b,90
+Apple MacBook Air,M2 chip, 13-inch laptop,999.99,Electronics,https://images.unsplash.com/photo-1517336714731-489689fd1ca8,20
+Dyson V11 Vacuum,High-power cordless vacuum,599.99,Home,https://images.unsplash.com/photo-1504674900247-0877df9cc836,15
+Harry Potter Box Set,Complete 7-book collection,69.99,Books,https://images.unsplash.com/photo-1512820790803-83ca734da794,35
+Barbie Dreamhouse,3-story dollhouse playset,199.99,Toys,https://images.unsplash.com/photo-1465101046530-73398c7f28ca,10
+Olay Face Cream,Moisturizing anti-aging cream,24.99,Beauty,https://images.unsplash.com/photo-1515378791036-0648a3ef77b2,120
+Kellogg's Corn Flakes,Family size cereal box,4.99,Grocery,https://images.unsplash.com/photo-1502741338009-cac2772e18bc,300
+Wilson Tennis Racket,Pro performance graphite racket,89.99,Sports,https://images.unsplash.com/photo-1517649763962-0c623066013b,50
+Apple Watch Series 8,Smartwatch with fitness tracking,399.99,Electronics,https://images.unsplash.com/photo-1511707171634-5f897ff02aa9,35
+Canon EOS Rebel T7,DSLR camera with lens kit,449.99,Electronics,https://images.unsplash.com/photo-1517336714731-489689fd1ca8,18
+Amazon Echo Dot,Smart speaker with Alexa,49.99,Electronics,https://images.unsplash.com/photo-1517841905240-472988babdf9,60
+Google Nest Thermostat,Smart home temperature control,129.99,Home,https://images.unsplash.com/photo-1504674900247-0877df9cc836,25
+Fitbit Charge 5,Fitness tracker with heart rate monitor,149.99,Electronics,https://images.unsplash.com/photo-1511707171634-5f897ff02aa9,45
+Roku Streaming Stick,HD streaming device,39.99,Electronics,https://images.unsplash.com/photo-1517336714731-489689fd1ca8,70
+KitchenAid Mixer,Stand mixer for baking,299.99,Home,https://images.unsplash.com/photo-1504674900247-0877df9cc836,20
+... (expand to 200 rows with similar structure)
